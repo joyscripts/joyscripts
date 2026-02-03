@@ -36,7 +36,7 @@
 
 <p>
 <!-- <a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.xyz.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/herojish/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jishan%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/joyofcode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jishan%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/joyboy_jishan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joyboy__jishan-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jishankhannew@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-jishankhannew@outlook.com-blue?style=flat-square&logo=microsoftoutlook"></a>
 </p>
