@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/76834176?s=400&u=d8d8abc220cf7ce25bf80031726047c4cfdc92ab&v=4">
-
 <h2> Hey there! I'm Jishan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
